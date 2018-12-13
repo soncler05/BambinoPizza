@@ -1,0 +1,6 @@
+c:\users\ccvvsqlserver\documents\visual studio 2015\Projects\BambinoPizza\BambinoPizza\bin\Debug\BambinoPizza.exe.config
+c:\users\ccvvsqlserver\documents\visual studio 2015\Projects\BambinoPizza\BambinoPizza\bin\Debug\BambinoPizza.exe
+c:\users\ccvvsqlserver\documents\visual studio 2015\Projects\BambinoPizza\BambinoPizza\bin\Debug\BambinoPizza.pdb
+c:\users\ccvvsqlserver\documents\visual studio 2015\Projects\BambinoPizza\BambinoPizza\obj\Debug\BambinoPizza.csprojResolveAssemblyReference.cache
+c:\users\ccvvsqlserver\documents\visual studio 2015\Projects\BambinoPizza\BambinoPizza\obj\Debug\BambinoPizza.exe
+c:\users\ccvvsqlserver\documents\visual studio 2015\Projects\BambinoPizza\BambinoPizza\obj\Debug\BambinoPizza.pdb
